@@ -4,8 +4,8 @@
 ## About the project :
 
 ### - This system was made in Java.
-### - Worked on making a  
-### - Implemented D
+### - Worked on a System to Store Buyers Details ans Product Details
+### - We can Add, Update and Delete Buyer and Product Details. Also calculates the amount to be paid.
 ### - Made the application using java swing and awt.
 
 ## Author :
