@@ -20,6 +20,7 @@ public class productDetails extends javax.swing.JFrame {
      */
     public productDetails() {
         initComponents();
+        setLocationRelativeTo(null);
     }
 
     /**

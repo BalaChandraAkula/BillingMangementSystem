@@ -21,6 +21,7 @@ public class updateBuyer extends javax.swing.JFrame {
      */
     public updateBuyer() {
         initComponents();
+        setLocationRelativeTo(null);
     }
 
     /**

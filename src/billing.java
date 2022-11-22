@@ -28,6 +28,7 @@ public int finalTotal = 0;
      */
     public billing() {
         initComponents();
+        setLocationRelativeTo(null);
         SimpleDateFormat dFormat = new SimpleDateFormat("dd-MM-yyyy");
         Date date = new Date();
         jLabel5.setText(dFormat.format(date));
@@ -148,7 +149,7 @@ public int finalTotal = 0;
         getContentPane().add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(1050, 20, -1, -1));
 
         jLabel6.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        getContentPane().add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(1050, 50, 10, 20));
+        getContentPane().add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(1050, 50, 70, 20));
         getContentPane().add(jSeparator1, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 120, 1149, 9));
 
         jLabel7.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N

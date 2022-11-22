@@ -21,6 +21,7 @@ public class deleteBuyer extends javax.swing.JFrame {
      */
     public deleteBuyer() {
         initComponents();
+        setLocationRelativeTo(null);
     }
 
     /**

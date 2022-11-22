@@ -21,6 +21,7 @@ public class buyersDetails extends javax.swing.JFrame {
      */
     public buyersDetails() {
         initComponents();
+        setLocationRelativeTo(null);
     }
 
     /**

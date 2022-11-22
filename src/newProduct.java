@@ -23,6 +23,7 @@ public class newProduct extends javax.swing.JFrame {
      */
     public newProduct() {
         initComponents();
+        setLocationRelativeTo(null);
     }
 
     /**

@@ -20,6 +20,7 @@ public class deleteProduct extends javax.swing.JFrame {
      */
     public deleteProduct() {
         initComponents();
+        setLocationRelativeTo(null);
     }
 
     /**

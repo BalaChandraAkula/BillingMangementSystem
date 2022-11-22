@@ -21,7 +21,7 @@ public class home extends javax.swing.JFrame {
     
     public home() {
         initComponents();
-        
+        setLocationRelativeTo(null);
         jButton2.setVisible(false);
         jButton3.setVisible(false);
         jButton4.setVisible(false);

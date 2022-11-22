@@ -20,6 +20,7 @@ public class newBuyer extends javax.swing.JFrame {
      */
     public newBuyer() {
         initComponents();
+        setLocationRelativeTo(null);
     }
 
     /**
