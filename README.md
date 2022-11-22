@@ -5,7 +5,7 @@
 
 ### - This system was made in Java.
 ### - Worked on a System to Store Buyers Details and Product Details
-### - We can Add, Update and Delete Buyer and Product Details. Also calculates the amount to be paid.
+### - We can Add, Update and Delete Buyers and Product Details. Also calculates the amount to be paid.
 ### - Made the application using java swing and awt.
 
 ## Author :
