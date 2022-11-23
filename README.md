@@ -3,10 +3,10 @@
 
 ## About the project :
 
-### - This system was made in Java.
-### - Worked on a System to Store Buyers Details and Product Details
-### - We can Add, Update and Delete Buyers and Product Details. Also calculates the amount to be paid.
-### - Made the application using java swing and awt.
+### Built a Student Result management system GUI application to help the admin store various data such as course result declaration , student details and to    help student's check their own result.
+### Added functionaly for admin to add/list student detail , add/list/update student result and for student to search for their result.
+### Used mysql database to store/fetch data entered into the GUI.
+### Made the application using java swing, awt and mysql database.
 
 ## Author :
 ## Bala Chandra Akula : [LinkedIn](https://www.linkedin.com/in/bala-chandra-akula-5808b3171/)
